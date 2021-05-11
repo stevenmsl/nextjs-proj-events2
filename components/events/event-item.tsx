@@ -1,5 +1,5 @@
 import React from "react";
-import { DummyEvent } from "../../dummy-data";
+import { DummyEvent } from "../../types";
 import Button from "../ui/button";
 import DateIcon from "../icons/date-icon";
 import AddressIcon from "../icons/address-icon";
